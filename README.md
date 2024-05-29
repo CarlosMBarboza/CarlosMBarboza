@@ -3,7 +3,7 @@
 
 
 En este espacio comparto algunos de mis proyectos, experimentos y trabajo relacionado con 
-Html, Css, JavaScript,NodeJS, React js, css, Tailwin, Bootstrap
+Html, Css, JavaScript, NodeJS, React js, Tailwin, Bootstrap
 
 Mi objetivo es contribuir a la comunidad de desarrolladores y apasionados por la tecnología, compartiendo conocimientos, soluciones y experimentos que puedan ser útiles para otros.
 
