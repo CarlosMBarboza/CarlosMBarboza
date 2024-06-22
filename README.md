@@ -1,4 +1,4 @@
-![Banner de michael](2.png) 
+![Banner de michael](123.png) 
 
 ¡Bienvenido a mi espacio virtual donde comparto una selección de mis proyectos, experimentos y trabajos relacionados con el apasionante mundo del desarrollo web! En este repositorio podrás explorar creaciones 
 que abarcan tecnologías como Html, Css, JavaScript, NodeJS, React js, Tailwind y Bootstrap.
