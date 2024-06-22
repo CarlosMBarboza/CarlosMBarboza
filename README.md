@@ -1,4 +1,4 @@
-![Banner de michael](2.png)
+![Banner de michael](2.png) 
 
 ¡Bienvenido a mi espacio virtual donde comparto una selección de mis proyectos, experimentos y trabajos relacionados con el apasionante mundo del desarrollo web! En este repositorio podrás explorar creaciones 
 que abarcan tecnologías como Html, Css, JavaScript, NodeJS, React js, Tailwind y Bootstrap.
@@ -7,8 +7,8 @@ Mi motivación y entusiasmo por el aprendizaje continuo en este campo se refleja
 formas de desafiarme y crecer como desarrollador web.
 Si tienes alguna pregunta, comentario o sugerencia sobre mis trabajos, estaré encantado de escucharte. Me apasiona recibir feedback constructivo y participar en discusiones enriquecedoras que puedan inspirar 
 nuevas ideas y mejoras. ¡Espero que disfrutes explorando mi repositorio y que encuentres inspiración en mis proyectos!
-¡No dudes en ponerte en contacto conmigo para cualquier inquietud que tengas! ¡Gracias por visitar mi espacio de desarrollo web!
-
+¡No dudes en ponerte en contacto conmigo para cualquier inquietud que tengas! 
+¡Gracias por visitar mi espacio de desarrollo web!
 
 Saludos,
 ### Skills
