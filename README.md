@@ -1,6 +1,6 @@
-![Banner de michael](2.png) 
-
 <div align="center">
+  <img src="./2.png" alt="Banner de Michael" width="100%" />
+
   <h1>Hola, soy Carlos Michael Barboza 👋</h1>
   <h3>Full Stack Developer & AI Consultant</h3>
 
@@ -105,4 +105,3 @@ Integración de flujos de trabajo autónomos para procesamiento de datos, webhoo
 - 🚀 **Deployments / Vercel:** [carlosmbarbozas-projects](https://vercel.com/carlosmbarbozas-projects)
 - ✉️ **Email:** [michaelbarboza7@gmail.com](mailto:michaelbarboza7@gmail.com)
 - 🐙 **GitHub:** [@CarlosMBarboza](https://github.com/CarlosMBarboza)
-
